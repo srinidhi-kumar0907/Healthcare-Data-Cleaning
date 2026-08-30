@@ -85,11 +85,9 @@ The final dataset is then saved in the `output` folder.
 ## 6. Project Structure
 Healthcare-Data-Cleaning/
 │
-├── data/
-│   └── raw_dataset.csv
+├── raw_dataset.csv
 │
-├── output/
-│   └── cleaned_dataset.csv
+├── cleaned_dataset.csv
 │
 ├── Healthcare_Data_Cleaning.ipynb
 │
